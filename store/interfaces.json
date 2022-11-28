@@ -1,6 +1,5 @@
 {
     "pdf-reader": {
-        "component": "PdfReader",
-        "render": "client"
+        "component": "PdfReader"
     }
 }
